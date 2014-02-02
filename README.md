@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Devfest Environment Setup
 
 ### Motivation
@@ -230,3 +231,9 @@ using Virtualbox. To do this, open up VirtualBox on your machine, right-click
 the box that you started, and click "Remove".
 
 ![vagrant remove](http://squidarth.github.io/static/virtualbox_remove-2.png)
+=======
+devfest
+=======
+
+devfest dev repo - working on whip(?) app for emergency phone backups
+>>>>>>> e979f95273bfa4bcece76904db57dbfc773135c6
